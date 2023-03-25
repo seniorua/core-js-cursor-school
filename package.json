@@ -1,0 +1,17 @@
+{
+  "name": "core-js-cursor-school",
+  "version": "1.0.0",
+  "description": "Core JS",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dzmitry Dabrahost",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DzmitryDabrahost/core-js-cursor-school.git"
+  }
+}
